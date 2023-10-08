@@ -1,0 +1,74 @@
+{
+  "materias": [
+    {
+      "nombre": "Álgebra Vectorial y Matrices",
+      "codigo": "ALG",
+      "prerrequisitos": ["Bachillerato"],
+      "ciclo": 1,
+      "UV": 4
+    },
+    {
+      "nombre": "Programación Orientada a Objetos",
+      "codigo": "POO",
+      "prerrequisitos": ["Bachillerato"],
+      "ciclo": 1,
+      "UV": 4
+    },
+    {
+        "nombre": "Datawarehouse",
+        "codigo": "DMD",
+        "prerrequisitos": ["POO"],
+        "ciclo": 2,
+        "UV": 4
+    },
+    {
+        "nombre": "Calculo de Varias Variables",
+        "codigo": "CVV",
+        "prerrequisitos": ["Bachillerato"],
+        "ciclo": 2,
+        "UV": 4
+    },
+    {
+        "nombre": "Cinemática y Dinámica de Partículas",
+        "codigo": "CDP",
+        "prerrequisitos": ["Bachillerato"],
+        "ciclo": 3,
+        "UV": 4
+    },
+    {
+        "nombre": "Estadística Aplicada",
+        "codigo": "ESA",
+        "prerrequisitos": ["Bachillerato"],
+        "ciclo": 3,
+        "UV": 4
+    },
+    {
+        "nombre": "Electricidad y Magnetismo",
+        "codigo": "EYM",
+        "prerrequisitos": ["CDP"],
+        "ciclo": 4,
+        "UV": 4
+    },
+    {
+        "nombre": "Arquitectura de Computadoras",
+        "codigo": "ACO",
+        "prerrequisitos": ["EYM"],
+        "ciclo": 4,
+        "UV": 4
+    },
+    {
+        "nombre": "Interconexión de Redes de Datos",
+        "codigo": "IRD",
+        "prerrequisitos": ["ACO"],
+        "ciclo": 5,
+        "UV": 4
+    },
+    {
+        "nombre": "Ingeniería de Software",
+        "codigo": "INS",
+        "prerrequisitos": ["IRD"],
+        "ciclo": 5,
+        "UV": 4
+    }
+  ]
+}

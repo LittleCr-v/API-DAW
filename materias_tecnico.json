@@ -1,0 +1,74 @@
+{
+    "materias": [
+      {
+        "nombre": "Lenguaje de Marcado y Estilo web",
+        "codigo": "LME",
+        "prerrequisitos": ["Bachillerato"],
+        "ciclo": 1,
+        "UV": 4
+      },
+      {
+        "nombre": "Matemática Discreta",
+        "codigo": "MTD",
+        "prerrequisitos": ["LME"],
+        "ciclo": 1,
+        "UV": 4
+      },
+      {
+        "nombre": "Desarrollo de Aplic. Web con Soft. Interpretado en el cliente",
+        "codigo": "DAW",
+        "prerrequisitos": ["LME"],
+        "ciclo": 2,
+        "UV": 4
+      },
+      {
+        "nombre": "Desarrollo de Aplic. con Soft. Propietario",
+        "codigo": "DSP",
+        "prerrequisitos": ["DAW"],
+        "ciclo": 2,
+        "UV": 4
+      },
+      {
+        "nombre": "Base de Datos",
+        "codigo": "BDD",
+        "prerrequisitos": ["LME"],
+        "ciclo": 3,
+        "UV": 4
+      },
+      {
+        "nombre": "Soporte de Equipos y Sistemas Computacionales",
+        "codigo": "SES",
+        "prerrequisitos": ["DPS"],
+        "ciclo": 3,
+        "UV": 4
+      },
+      {
+        "nombre": "Servidores en Plataformas Libres",
+        "codigo": "SPL",
+        "prerrequisitos": ["SPP"],
+        "ciclo": 4,
+        "UV": 4
+      },
+      {
+        "nombre": "Desarrllo de Aplicaciones con Web Frameworks",
+        "codigo": "DWF",
+        "prerrequisitos": ["DAW"],
+        "ciclo": 4,
+        "UV": 4
+      },
+      {
+        "nombre": "Seguridad de Redes",
+        "codigo": "SDR",
+        "prerrequisitos": ["SPL"],
+        "ciclo": 5,
+        "UV": 4
+      },
+      {
+        "nombre": "Servidores en Plataformas Propietarias",
+        "codigo": "SPP",
+        "prerrequisitos": ["LME"],
+        "ciclo": 5,
+        "UV": 4
+      }
+    ]
+  }

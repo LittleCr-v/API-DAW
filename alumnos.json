@@ -1,0 +1,13 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Adriana Ardon",
+      "carnet": "AA202211",
+      "carrera": "Ingeniería en Computación",
+      "UV": 12,
+      "materias_inscritas": [
+        "ALG"
+      ]
+    }
+  ]
+}

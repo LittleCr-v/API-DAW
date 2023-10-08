@@ -1,0 +1,13 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Ernesto Ardon",
+      "carnet": "EA202210",
+      "carrera": "Técnico en Ingeniería en Computación",
+      "UV": 12,
+      "materias_inscritas": [
+        "SPP"
+      ]
+    }
+  ]
+}
